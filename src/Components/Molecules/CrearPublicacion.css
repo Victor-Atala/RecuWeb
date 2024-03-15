@@ -1,0 +1,68 @@
+.container-post{
+    width: 48%;
+    height: 15vh; 
+    margin: 1%;
+    border-radius: 5px;
+    background-color: #dde2f1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-crear{
+    width: 90%;
+    height: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container-botones{
+    width: 90%;
+    height: 30%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.img-crear{
+    width: 6%;
+    border-radius: 50%;
+}
+.img-check{
+    width: 80%;
+}
+
+.button-check{
+    width: 5%;
+    height: 28%;
+    border-radius: 50%;
+    background-color: #a8c0ff;
+}
+
+.button1{
+    width: 25%;
+    height: 50%;
+    border-radius: 5px;
+    background-color: #a8c0ff;
+    font-size: 70%;
+    margin-right: 2%;
+}
+.button2{
+    width: 15%;
+    height: 50%;
+    border-radius: 5px;
+    background-color: #a8c0ff;
+    font-size: 70%;
+    margin-right: 2%;
+
+}
+.button3{
+    width: 20%;
+    height: 50%;
+    border-radius: 5px;
+    background-color: #a8c0ff;
+    font-size: 70%;margin-right: 2%;
+
+}

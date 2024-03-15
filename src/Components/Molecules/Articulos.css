@@ -1,0 +1,43 @@
+.container-articulo{
+    width: 28%;
+    height: 120vh;
+    margin: 1%;
+    background-color: #dde2f1;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-articulos{
+    width: 95%;
+    height: 98%;
+    display: flex;
+    flex-direction: column;
+}
+
+.container-articulos-list{
+    width: 100%;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.container-articulos-links{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.sin-margin{
+    margin: 0;
+}
